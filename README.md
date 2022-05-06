@@ -1,4 +1,4 @@
-# Guard vs If in Swift
+# Guard vs If in Swift Explained
 
 This is the completed Project for the YouTube video of the same name
 
